@@ -21,7 +21,7 @@ The application automatically fetches data from the **cloud** and highlights **"
 
 ## 📥 Installation & Run
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)  
+1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)**
 2️⃣ **Run `Analyzer.exe`**   
 🚀 **The program will set everything up automatically – just enjoy!**  
 
