@@ -72,10 +72,10 @@ def generate_heatmap(data):
 
 ## 🖼 Examples
 📌 **Heatmap of drop zones:**  
-![Heatmap](assets/heatmap_example.png)  
+![Heatmap](1.jpg)  
 
 📌 **Highlighting PvP "hot zones":**  
-![Hotspots](assets/hotspots_example.png)  
+![Hotspots](2.jpg)  
 
 ---
 
